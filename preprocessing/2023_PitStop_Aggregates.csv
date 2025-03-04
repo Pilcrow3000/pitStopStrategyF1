@@ -1,0 +1,211 @@
+Event,Team,PitStopCount,AvgPitDuration
+Bahrain,Alfa Romeo,5,26.4464
+Bahrain,AlphaTauri,5,25.1182
+Bahrain,Alpine,6,31.090666666666667
+Bahrain,Aston Martin,4,25.1715
+Bahrain,Ferrari,4,24.4255
+Bahrain,Haas F1 Team,6,27.811666666666667
+Bahrain,McLaren,6,32.60616666666667
+Bahrain,Mercedes,4,25.175
+Bahrain,Red Bull Racing,4,24.64425
+Bahrain,Williams,6,25.11916666666667
+Saudi Arabia,Alfa Romeo,5,21.6714
+Saudi Arabia,AlphaTauri,2,21.2575
+Saudi Arabia,Alpine,2,20.75
+Saudi Arabia,Aston Martin,2,24.0075
+Saudi Arabia,Ferrari,2,20.406
+Saudi Arabia,Haas F1 Team,2,21.2185
+Saudi Arabia,McLaren,3,27.384666666666664
+Saudi Arabia,Mercedes,2,20.945
+Saudi Arabia,Red Bull Racing,2,20.765
+Saudi Arabia,Williams,2,21.219
+Australia,Alfa Romeo,11,473.43627272727275
+Australia,AlphaTauri,8,535.810125
+Australia,Alpine,5,727.629
+Australia,Aston Martin,6,1215.77
+Australia,Ferrari,4,647.6605
+Australia,Haas F1 Team,5,706.3636
+Australia,McLaren,7,912.2684285714286
+Australia,Mercedes,5,703.1886000000001
+Australia,Red Bull Racing,8,886.872625
+Australia,Williams,6,249.221
+Azerbaijan,Alfa Romeo,4,21.6715
+Azerbaijan,AlphaTauri,1,20.484
+Azerbaijan,Alpine,3,20.598666666666666
+Azerbaijan,Aston Martin,2,23.148
+Azerbaijan,Ferrari,2,21.46
+Azerbaijan,Haas F1 Team,2,27.812
+Azerbaijan,McLaren,2,20.664
+Azerbaijan,Mercedes,3,20.703
+Azerbaijan,Red Bull Racing,2,20.616500000000002
+Azerbaijan,Williams,2,21.07
+Miami,Alfa Romeo,2,22.992
+Miami,AlphaTauri,2,22.922
+Miami,Alpine,2,22.195
+Miami,Aston Martin,2,22.641
+Miami,Ferrari,2,22.164
+Miami,Haas F1 Team,2,22.8985
+Miami,McLaren,2,23.171
+Miami,Mercedes,2,22.258000000000003
+Miami,Red Bull Racing,2,22.2965
+Miami,Williams,2,35.6715
+Emilia Romagna,Alfa Romeo,4,23.914
+Emilia Romagna,AlphaTauri,4,22.88625
+Emilia Romagna,Alpine,3,24.025666666666666
+Emilia Romagna,Aston Martin,3,24.088333333333335
+Emilia Romagna,Ferrari,3,23.208333333333332
+Emilia Romagna,Haas F1 Team,4,24.20275
+Emilia Romagna,McLaren,2,24.367
+Emilia Romagna,Mercedes,4,23.281
+Emilia Romagna,Red Bull Racing,4,23.07
+Emilia Romagna,Williams,6,23.814833333333336
+Monaco,Alfa Romeo,3,27.31233333333333
+Monaco,AlphaTauri,2,28.914
+Monaco,Alpine,4,26.11675
+Monaco,Aston Martin,3,-17.296333333333337
+Monaco,Ferrari,4,25.7885
+Monaco,Haas F1 Team,4,35.987750000000005
+Monaco,McLaren,3,27.968
+Monaco,Mercedes,3,27.32766666666667
+Monaco,Red Bull Racing,6,26.726333333333333
+Monaco,Williams,5,25.6806
+Spain,Alfa Romeo,4,23.4995
+Spain,AlphaTauri,4,22.17175
+Spain,Alpine,4,23.30825
+Spain,Aston Martin,4,22.70675
+Spain,Ferrari,4,22.38625
+Spain,Haas F1 Team,6,23.20566666666667
+Spain,McLaren,5,25.5496
+Spain,Mercedes,4,22.397750000000002
+Spain,Red Bull Racing,4,21.93325
+Spain,Williams,4,23.4055
+Canada,Alfa Romeo,3,25.259666666666664
+Canada,AlphaTauri,4,25.01925
+Canada,Alpine,4,24.933500000000002
+Canada,Aston Martin,4,23.95275
+Canada,Ferrari,2,24.2965
+Canada,Haas F1 Team,4,24.63625
+Canada,McLaren,4,24.4215
+Canada,Mercedes,3,45.69166666666666
+Canada,Red Bull Racing,4,23.52675
+Canada,Williams,1,25.062
+Austria,Alfa Romeo,6,22.424000000000003
+Austria,AlphaTauri,7,6.310285714285714
+Austria,Alpine,6,22.762666666666664
+Austria,Aston Martin,7,20.736142857142855
+Austria,Ferrari,6,22.01
+Austria,Haas F1 Team,5,-25.15
+Austria,McLaren,7,21.921714285714284
+Austria,Mercedes,6,21.309833333333334
+Austria,Red Bull Racing,7,20.145142857142854
+Austria,Williams,6,21.397666666666666
+Britain,Alfa Romeo,4,30.472
+Britain,AlphaTauri,4,28.42525
+Britain,Alpine,1,28.5
+Britain,Aston Martin,2,28.616500000000002
+Britain,Ferrari,3,28.624333333333336
+Britain,Haas F1 Team,2,36.007000000000005
+Britain,McLaren,2,28.5385
+Britain,Mercedes,2,29.326999999999998
+Britain,Red Bull Racing,2,28.5545
+Britain,Williams,2,29.241500000000002
+Hungary,Alfa Romeo,4,24.3785
+Hungary,AlphaTauri,4,22.87075
+Hungary,Alpine,0,
+Hungary,Aston Martin,4,22.835250000000002
+Hungary,Ferrari,4,23.32725
+Hungary,Haas F1 Team,4,22.4255
+Hungary,McLaren,4,21.5505
+Hungary,Mercedes,4,21.7965
+Hungary,Red Bull Racing,4,21.4525
+Hungary,Williams,4,22.50725
+Belgium,Alfa Romeo,4,23.914
+Belgium,AlphaTauri,4,22.88625
+Belgium,Alpine,3,24.025666666666666
+Belgium,Aston Martin,3,24.088333333333335
+Belgium,Ferrari,3,23.208333333333332
+Belgium,Haas F1 Team,4,24.20275
+Belgium,McLaren,2,24.367
+Belgium,Mercedes,4,23.281
+Belgium,Red Bull Racing,4,23.07
+Belgium,Williams,6,23.814833333333336
+Netherlands,Alfa Romeo,9,271.4482222222222
+Netherlands,AlphaTauri,12,400.06316666666663
+Netherlands,Alpine,11,449.9309999999999
+Netherlands,Aston Martin,12,412.3155833333333
+Netherlands,Ferrari,7,368.96671428571426
+Netherlands,Haas F1 Team,11,420.0635454545455
+Netherlands,McLaren,11,437.9580909090909
+Netherlands,Mercedes,12,413.60975
+Netherlands,Red Bull Racing,12,201.96383333333335
+Netherlands,Williams,4,595.747
+Italy,Alfa Romeo,3,24.989333333333335
+Italy,AlphaTauri,2,24.3435
+Italy,Alpine,3,25.427333333333333
+Italy,Aston Martin,2,25.2575
+Italy,Ferrari,2,24.531
+Italy,Haas F1 Team,4,24.96875
+Italy,McLaren,3,26.546666666666667
+Italy,Mercedes,2,24.1875
+Italy,Red Bull Racing,2,24.061999999999998
+Italy,Williams,2,24.523
+Singapore,Alfa Romeo,3,30.395666666666667
+Singapore,AlphaTauri,1,32.328
+Singapore,Alpine,2,30.765500000000003
+Singapore,Aston Martin,2,41.6165
+Singapore,Ferrari,2,31.211
+Singapore,Haas F1 Team,3,33.291333333333334
+Singapore,McLaren,2,29.367
+Singapore,Mercedes,4,31.54675
+Singapore,Red Bull Racing,2,29.3275
+Singapore,Williams,4,38.609
+Japan,Alfa Romeo,6,15.546333333333335
+Japan,AlphaTauri,4,23.167749999999998
+Japan,Alpine,4,24.9095
+Japan,Aston Martin,3,23.849
+Japan,Ferrari,4,23.0305
+Japan,Haas F1 Team,5,23.5776
+Japan,McLaren,4,23.55
+Japan,Mercedes,3,24.099
+Japan,Red Bull Racing,7,-35.671285714285716
+Japan,Williams,6,18.611833333333337
+United States,Alfa Romeo,4,25.062
+United States,AlphaTauri,5,24.5682
+United States,Alpine,2,24.413
+United States,Aston Martin,4,24.5935
+United States,Ferrari,3,23.812
+United States,Haas F1 Team,4,25.199
+United States,McLaren,2,23.7575
+United States,Mercedes,4,24.515
+United States,Red Bull Racing,4,24.19525
+United States,Williams,4,24.84725
+Mexico,Alfa Romeo,4,626.38725
+Mexico,AlphaTauri,4,621.8915
+Mexico,Alpine,3,824.8860000000001
+Mexico,Aston Martin,4,626.25475
+Mexico,Ferrari,4,617.54775
+Mexico,Haas F1 Team,3,422.17499999999995
+Mexico,McLaren,5,232.9178
+Mexico,Mercedes,4,618.86775
+Mexico,Red Bull Racing,3,-35.666333333333334
+Mexico,Williams,4,287.94775
+Brazil,Alfa Romeo,6,-25.986499999999996
+Brazil,AlphaTauri,8,183.85912499999998
+Brazil,Alpine,9,-8.975666666666665
+Brazil,Aston Martin,8,-13.91825
+Brazil,Ferrari,4,-12.6795
+Brazil,Haas F1 Team,4,-7.078249999999998
+Brazil,McLaren,8,184.19699999999997
+Brazil,Mercedes,8,-13.968625
+Brazil,Red Bull Racing,8,-14.322000000000001
+Brazil,Williams,4,-10.19175
+Abu Dhabi,Alfa Romeo,3,22.604
+Abu Dhabi,AlphaTauri,3,21.640666666666664
+Abu Dhabi,Alpine,3,22.843666666666667
+Abu Dhabi,Aston Martin,4,21.906
+Abu Dhabi,Ferrari,5,-0.6185999999999978
+Abu Dhabi,Haas F1 Team,4,22.21075
+Abu Dhabi,McLaren,4,22.109
+Abu Dhabi,Mercedes,4,22.03475
+Abu Dhabi,Red Bull Racing,4,21.378500000000003
+Abu Dhabi,Williams,4,22.06575
